@@ -1,0 +1,16 @@
+{
+	"items": [
+		{
+			"key": "testkey1",
+			"value": "testvalue1"
+		},
+		{
+			"key": "testkey2",
+			"value": "testvalue2"
+		},
+		{
+			"key": "testkey3",
+			"value": "testvalue3"
+		}
+	]
+}
